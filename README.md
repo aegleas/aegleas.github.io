@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
+  <head>
+  </head>
   <body>
-    <h1>céad míle faílte!</h1>
-    <p>my name is annie gleason, and i'm an amateur programmer!</p>
-  </body>
-  </html>
+    <header>
+      <h1><img src="https://www.freepnglogos.com/uploads/rubber-duck-png/rubber-duck-girl-png-images-download-19.png" width="200" alt="rubber duck girl png images download”></h1>
